@@ -1,0 +1,14 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Otros
+*.log
+*.tmp
